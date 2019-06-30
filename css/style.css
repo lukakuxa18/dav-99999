@@ -1,0 +1,108 @@
+header{
+	display: flex;
+	justify-content: space-between;
+
+}
+.logo{
+	width: 150px;
+}
+li{
+	display: inline-block;
+	margin-left: 10px;
+    text-align: center;
+    
+}
+.s{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background-color: #BDCCD4;
+	padding: 100px;
+
+}
+.d{
+	width: 270px;
+	height: 210px;
+	margin-bottom: 30px;
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+}
+.lo{
+	text-align: center;
+	background-color: white;
+	font-size: 20px;
+}
+.di{
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+	
+}
+.pop{
+	text-align: center
+}
+.papa{
+
+background-color: #BDCCD4;
+
+}
+}
+.l{
+	vertical-align: middle;
+	display: inline-block;margin-left: 10px;
+	color: blue;
+}
+.se{
+	display: flex;
+	justify-content: center;
+	background-color:#363E97; 
+
+}
+.ji{
+	width: 579px;
+	height: 322px;
+	align-items: center;
+	background-color: white;
+	margin-left: 15px;
+}
+.r{
+	margin-top: 150px;
+	margin-left: 150px;
+}
+footer{
+	background-color: #E6E6E6;
+	padding: 70px;
+}
+.divangog{
+	display: inline-block;
+	width: 500px;
+	margin-left: 50px;
+}
+.son{
+	display: fixed;
+	justify-content: center;
+}
+.ooo{
+	display: inline-block;
+}
+.oo{
+	display: inline-block;
+	vertical-align: top;
+}
+li:hover{
+	background-color: red;
+}
+.d:hover{
+	margin-left: 30px;
+
+	 }
+.logo:hover{
+	width: 120px;
+	height: 120px;
+	background-color: black;
+}
+.r:hover{
+	font-size: 45px;
+	color: yellow;
+}
